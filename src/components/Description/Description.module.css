@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  width: 800px;
+  height: 80px;
+  /* border: 2px solid #212121;
+  border-radius: 10px; */
+  margin-left: 40px;
+  margin-top: 40px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.title {
+  /* margin-left: 5px; */
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.text {
+  /* margin-left: 5px; */
+}
+.descWrap {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between; */
+}
